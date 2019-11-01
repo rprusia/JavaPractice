@@ -1,4 +1,4 @@
-public class NegativeZero {
+public class NegativeZero extends Throwable {
 
     /**
      * There exist two zeroes: +0 (or just 0) and -0.
