@@ -107,10 +107,10 @@ public class Start  {
         //System.out.println(HappyHolidays.sort_gift_code("jewion"));
         //System.out.print(TurtleRace.race(720, 760, 70));
         //System.out.println(Triangle.isTriangle(7,2,2));
-        for (int i = 0; i < 100; i++) {
-            System.out.println(Password.makePassword(5,true,false,true));
+        //System.out.println(Password.makePassword(5,true,false,true));
 
-        }
+        int[] value = {55, 66, 44, 100, 55, 88};
+        System.out.println(CalcAverageGrade.betterThanAverage(value , 92));
     }
 
 }
